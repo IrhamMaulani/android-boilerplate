@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BoilerPlate</string>
+    <string name="hello_world">Hello World</string>
+    <string name="click_me">Click Me</string>
+    <string name="reply">Reply</string>
+    <string name="enter_your_message">Enter Your Message</string>
 </resources>
